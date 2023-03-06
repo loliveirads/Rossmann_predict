@@ -1,5 +1,5 @@
 sklearn==0.0.post1
-scikit-learn==1.2.1
+scikit-learn
 
 DateTime==4.9
 Fiona==1.8.22
