@@ -6,7 +6,7 @@ from rossmann.Rossmann import Rossmann
 import xgboost as xgb
 import requests
 # loading model
-model = pickle.load( open( 'model\rossmann.pkl', 'rb') )
+model = pickle.load( open( 'model/rossmann.pkl', 'rb') )
 
 # initialize API
 app = Flask( __name__ )
