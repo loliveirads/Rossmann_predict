@@ -10,7 +10,7 @@ identify==2.5.12
 inflection==0.5.1
 iniconfig==2.0.0
 ipykernel
-ipython==8.8.0
+ipython
 ipython-genutils==0.2.0
 isoduration==20.11.0
 itsdangerous==2.1.2
