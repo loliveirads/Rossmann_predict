@@ -156,7 +156,7 @@ Após a execução com sucesso do modelo, foi publicado em um ambiente de nuvem 
 #### PASSO 10 - Bot no Telegram:<br>
 A etapa final do projeto foi criar um bot no aplicativo de mensagens Telegram, que possibilita consultar as previsões de cada loja de qualquer lugar e a qualquer momento.<br><br>
 
-Demonstração da aplicação:<br>
-<div align="left">
-<img src="https://github.com/WillLeandro/projeto_rossmann_data_science/blob/386f8e4ac8304bcab1336f6af1a851b78102c2f9/img/Design%20sem%20nome.gif" width="400px", Height="600px" />
-</div><br>
+#Demonstração da aplicação:<br>
+#<div align="left">
+#<img src="https://github.com/WillLeandro/projeto_rossmann_data_science/blob/386f8e4ac8304bcab1336f6af1a851b78102c2f9/img/Design%20sem%20nome.gif" width="400px", #Height="600px" />
+#</div><br>
